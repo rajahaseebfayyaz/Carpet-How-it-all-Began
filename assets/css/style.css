@@ -55,8 +55,10 @@ h1,h2 {
 
 /* pexels-meruyert-gonullu-6243726.jpg */
 
-#pexels-meruyert-gonullu-6243726.jpg {
-    height: 600px;
-    width: 100px;
-    background-image: url('assets/images/pexels-meruyert-gonullu-6243726.jpg');
+#pexels {
+
+    background-color: red;
+    /* background: url("assets/images/pexels-meruyert-gonullu-6243726.jpg") no-repeat center center; */
+
+                        
 }
