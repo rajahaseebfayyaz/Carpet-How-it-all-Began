@@ -55,8 +55,15 @@ h1,h2 {
 
 /* pexels-sulav-loktam-5184645.jpg */
 
+#pexels-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
+
 #pexels {
     height: 600px;
     width: 100%;
     background: url("../images/pexels-sulav-loktam-5184645.jpg") no-repeat center center;
+    background-size: 100%;
 }
