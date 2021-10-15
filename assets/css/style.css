@@ -9,7 +9,7 @@ border: none;
 body {font-family: Lato, sans-serif;
       font-weight: 300;
       color: #3a3a3a;
-      background-color: #F0F5D1;
+      background-color: #CED9E3;
 }
 /* headings and logo */
 
@@ -189,4 +189,10 @@ hr {border-top: 1px solid #3a3a3a;
     height: 100%;
     border-radius: 50%;
     background-size: 100%;
+}
+
+/* TYPES OF CARPET */
+
+#TYPES-OF-CARPET {
+    height: 600px;
 }
