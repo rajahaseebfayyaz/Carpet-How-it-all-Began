@@ -18,7 +18,7 @@ rajahaseebfayyaz
 
 The Carpet how it all began provides the users with history of the carpets,How the use of carpets came into being and used even now after so many years.Moreover it also provides user the key elements on types of carpets and why to use carpets for soft flooring and the benefits of using the carpets and rugs.
 This site also provides user to see how carpets and rugs increase the decor of the interior and how it evolved and used over time.
-In the last user can also sign up to get exclusive tricks and tips to clean the carpets,rugs or both.
+In the last, user can also sign up to get exclusive tricks and tips to clean the carpets,rugs or both.
 
 https://rajahaseebfayyaz.github.io/Carpet-How-it-all-Began/
 
@@ -26,18 +26,25 @@ https://rajahaseebfayyaz.github.io/Carpet-How-it-all-Began/
 
 
 ### Design Choices
-Your site is most likely geared to a certain audience, and your design choices should tie into them. Let the assessors know your thought process.
 
-You may want to re-watch the videos about the 5 planes of UX development when writing up this section
+
 
 ### Colors
-Discuss your color pallet choices and how it ties into users' emotions or target audience.
+- The Colour combination used in this project represents the clarity and contrast which creates appealing sensation.
+- Contrast is the most important thing regarding the choice of colours. So, it could be easy for young ones who are still learning "symbols" that are letters and words and also for older people having visual impairment.
+
+
 ![image](https://user-images.githubusercontent.com/87448281/138310986-54b60d21-29b6-4ca9-a808-1a194878d408.png)
 
 
 ### Typography
-discuss font size, font types for headers vs buttons vs general text and how it ties into users' emotions or target audience.
-include screenshots of fonts used and links to the appropriate website ex) https://fonts.google.com/specimen/Raleway
+- The fonts used in Carpet-How-it-Began improves the visual presentation of the content.
+- Oswald is used for headings and menus whereas Lato is used for paragraph content,Both complement nicely to each other while remaining easy to read.
+- Weight for the font used is 300 as it looks sleek and professional.
+
+https://fonts.google.com/specimen/Oswald?query=os&preview.text=CARPET-HOW-ITALL-BEGAN&preview.text_type=custom
+
+https://fonts.google.com/specimen/Lato?query=LATO
 ### Images
 Explain why you used certain icons and images on your site
 
@@ -50,7 +57,7 @@ In this section, you should go over the different parts of your project, and des
 
 #### NAVIGATION
 
-- Navigation bar to be used to navigate across different pages and sections as well.
+- 
 
 
 For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
@@ -171,39 +178,34 @@ Here is a Defect Tracking Template you use as a starting point to track defects.
 
 Again, you could use github issues to track you defects. Or write them up with markdown.
 
-Defects of Note
+### Defects of Note
 Some defects are more pesky than others. Highlight 3-5 of the bugs that drove you the most nuts and how you finally ended up resolving them.
 
 Outstanding Defects
 It's ok to not resolve all the defects you found. If you know of something that isn't quite right, list it out and explain why you chose not to resolve it.
 
-Deployment
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages).
+## Deployment
+- The site was deployed to github pages. The steps to deploy are as follows:-
+- In the Github repository, navigate to settings page.
+- From the source section drops-down menu, select the Master Branch.
+- Once the master branch has been selected ,the page provided the link to the completed website.
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any.
+- The live link can be found here:-
+https://rajahaseebfayyaz.github.io/Carpet-How-it-all-Began/
 
-Remember to use proper markdown for commands and enumerated steps.
+## Credits
 
-Deploy Locally
-Write out the steps you take starting from cloning the repository in github or clicking a gitpod button to run your code locally. Test it out and make sure it works. This can be running from your IDE of choice like VSCode or PyCharm or GitPod. (Add screenshots to steps to make it really easy for a newbie to know what to do )
+### Content
+- The content to make this site was taken from multiple channels mentioned below:-
+- Wikipedia.org
+- therugscafe.com
+- carpet-rug.org
 
-You may want to re-watch the initial deployment in gitpod video when writing up this section.
+### Media
 
-Deploy To GitHub Pages
-Write out steps you would take and test them to deploy your code to GitHub Pages. (Add screenshots to steps to make it really easy for a newbie to know what to do )
+- The Images used in the Project are all taken from Pexels.com
 
-Credits
-To avoid plagiarism amd copyright infringement, you should mention any other projects, stackoverflow, videos, blogs, etc that you used to gather imagery or ideas for your code even if you used it as a starting point and modified things. Giving credit to other people's efforts and ideas that saved you time acknowledges the hard work others did.
-
-(Include the lessons or templates from CI and this guide if you copy some stuff from it. )
-
-Content
-Use bullet points to list out sites you copied text from and cross-reference where those show up on your site
-
-Media
-Make a list of sites you used images from. If you used several sites try to match up each image to the correct site. This includes attribution for icons if they came from font awesome or other sites, give them credit.
-
-Acknowledgments
+### Acknowledgments
 This is the section where you refer to code examples, mentors, blogs, stack overflow answers and videos that helped you accomplish your end project. Even if it's an idea that you updated you should note the site and why it was important to your completed project.
 
-If you used a CodeInstitute Example project as a starting point. Make note of that here.
+- CodeInstitute's LOVE-RUNNING project has been used as a starting point.
