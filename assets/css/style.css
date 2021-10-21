@@ -446,10 +446,7 @@ hr {
     display: none;
 }
 
-.row,
-.body-text {
-    margin: 0 15px;
-}
+
 
 #circle-container {
     width: 200px;
@@ -571,6 +568,10 @@ hr {
         flex-basis: 100%;
     }
 
+    .row,
+    .body-text {
+        margin: 0 15px;
+    }
 
 
 }
