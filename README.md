@@ -1,14 +1,12 @@
 OVERVIEW
 This template was made as a guide to ensure you cover assessment criteria in your first write up. It is specific to the USER CENTRIC FRONTEND MILESTONE project.
 
-Helpful tools
-Markdown's not all that easy so sometimes you may want to use some tools to make tables.
 
 Markdown Cheatsheet
-markdown table generator - used to help with documentation table formatting
-mardown table of contents generator - used to create table of contents (be weary it does have some bugs if you have dashes or trailing spaces in your headers)
-Table of Contents
-Copy your readme to http://ecotrust-canada.github.io/markdown-toc/ to make a table of contents. This will help assessors to see the structure of your readme. Just test it out ast this tool isn't perfect. It tends to mess up with special characters like dashes.
+markdown table generator
+Table of Contents 
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 CARPET-HOW-IT-ALL-BEGAN
 
