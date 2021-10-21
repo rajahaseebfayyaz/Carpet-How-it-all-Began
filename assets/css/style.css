@@ -73,11 +73,12 @@ h1,h2 {
 #pexels {
     height: 600px;
     width: 100%;
-    background: url("../images/pexels-sulav-loktam-5184645.jpg") no-repeat center center;
+    background: url("../images/pexels-sulav-loktam-5184645\ \(1\).jpg") no-repeat center center;
     background-size: 100%;
-
-
+    
+    
 /* animates zoom effect on loading page */
+
 animation-name: pexels-zoom;
 animation-duration: 5s;
 animation-fill-mode: forwards;
@@ -259,6 +260,15 @@ hr {border-top: 1px solid #3a3a3a;
     color: white;
 }
 
+/* carpet texture.jpg */
+
+#carpet-texture.about-page {
+    height: 600px;
+    width: 100%;
+    background: url("../images/carpet\ texture.jpg") no-repeat center center;
+    background-size: 100%;
+}
+
 
 /* Media queries */
 
@@ -295,14 +305,14 @@ hr {
 
 /* For medium screen sizes from 950px wide and down */
 @media screen and (max-width: 950px) {
-    #menu {
-        /* clear: left;
+    #menu{
+        clear: left;
         float: left;
-        margin-left: 30px;
+        margin-left: 30px; 
         margin-bottom: 20px;
         line-height: 25px;
-     */
-}
+    
+    }
 
 #cover-text {
     left: 0;
@@ -341,4 +351,37 @@ hr {
         column-count: 2;
     
     }
+
+    #menu, #logo {
+        line-height: normal;
+    }
+    #menu{
+        letter-spacing: 0.5px;
+    }
+    #logo{
+        font-size: 28px;
+        margin-left: 15px;
+    }
+    #pexels, #pexels-outer {
+        height: 240px;
+    }
+
+    .body-text{
+        margin: 0 15px;
+}
+    .body-text h1, .body-text h2, .body-text h3, .body-text h4{
+    line-height: normal;
+}
+footer {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    flex-flow: wrap-reverse;
+}
+.social-networks.text {
+    width: calc(100% - 60px);
+    margin: 18px auto;
+}
+
+
 }
