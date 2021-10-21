@@ -61,6 +61,36 @@ h2 {
     border-bottom: 1px solid #3a3a3a;
 }
 
+.main-content {
+    background: #252525;
+    color: #c1b2b2;
+}
+
+.body-text {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.body-text h2,
+.body-text h3, .body-text h4{
+    font-size: 48px;
+    line-height: 90px;
+    color: #d32950;
+}
+
+.body-text p {
+    line-height: 36px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.body-text p {
+    line-height: 36px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+
 /* pexels-sulav-loktam-5184645.jpg and cover text */
 
 #pexels-outer {
