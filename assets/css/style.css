@@ -151,6 +151,8 @@ h2 {
     position: absolute;
 }
 
+
+
 /* Why Choose Carpet? */
 
 #Why-Choose-Carpet {
@@ -170,7 +172,7 @@ h2 {
 }
 
 #center-about {
-    width: 33%;
+    width: 100%;
     margin: 0 auto;
 }
 
@@ -227,6 +229,43 @@ hr {
     background: url('../images/pexels-pavel-danilyuk-8763110.jpg') no-repeat center center;
     height: 100%;
     border-radius: 50%;
+    background-size: 100%;
+}
+
+/* flex grid for columns and rows */
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin: 20px 0;
+    column-gap: 20px;
+}
+
+.column {
+    flex: 1;
+}
+.column.one-third{
+    flex: 3.3;
+}
+.column.two-thirds{
+    flex: 6.6;
+}
+.body-text h2.heading {
+    line-height: 25px;
+    font-size: 24px;
+    font-family: Oswald, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    margin-top: 20px;
+}
+
+
+/* carpet texture.jpg */
+
+#carpet.about-page {
+    height: 600px;
+    width: 100%;
+    background: url('../images/carpet\ texture.jpg') no-repeat center center;
     background-size: 100%;
 }
 
@@ -289,6 +328,25 @@ footer {
 
 }
 
+.image-wrap {
+    margin: 0 auto;
+    display: block;
+    position: relative;
+    width: 100%;
+    height: 300px;
+    padding: 10px;
+    overflow: hidden;
+  }
+
+.image-wrap img {
+    margin: auto;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    max-width: 300px;
+  }
+
+
 /* Form */
 
 .form-section {
@@ -345,14 +403,6 @@ footer {
     color: grey;
 }
 
-/* carpet texture.jpg */
-
-#carpet-texture.about-page {
-    height: 600px;
-    width: 100%;
-    background: url("../images/carpet\ texture.jpg") no-repeat center center;
-    background-size: 100%;
-}
 
 
 /* Media queries */
@@ -388,6 +438,16 @@ footer {
 hr {
     display: none;
 }
+
+.row, .body-text{
+    margin: 0 15px;
+}
+#circle-container {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 20px;
+}
+
 
 /* For medium screen sizes from 950px wide and down */
 @media screen and (max-width: 950px) {
@@ -481,6 +541,24 @@ hr {
         width: calc(100% - 60px);
         margin: 18px auto;
     }
+
+
+    .row {
+        display: flex;
+        flex-direction: column;
+        margin: 15px;
+        column-gap: 0;
+    }
+
+    .body-text h2.heading {
+        margin-top: 0;
+    }
+
+    .column, .column.one-third, .column.two-thirds {
+        flex: 1;
+        flex-basis: 100%;
+    }
+
 
 
 }
