@@ -92,7 +92,7 @@ h2 {
 }
 
 
-/* pexels-sulav-loktam-5184645.jpg and cover text */
+/* morrocon-carpet-market.jpg and cover text */
 
 #pexels-outer {
     height: 600px;
@@ -110,7 +110,7 @@ h2 {
 #pexels {
     height: 600px;
     width: 100%;
-    background: url("../images/pexels-sulav-loktam-5184645\ \(1\).jpg") no-repeat center center;
+    background: url("../images/morrocon-carpet-market.jpg") no-repeat center center;
     background-size: 100%;
 
 
@@ -269,7 +269,7 @@ hr {
 #carpet.about-page {
     height: 600px;
     width: 100%;
-    background: url('../images/carpet\ texture.jpg') no-repeat center center;
+    background: url('../images/carpet-texture.jpg') no-repeat center center;
     background-size: 100%;
 }
 
@@ -358,7 +358,7 @@ footer {
 
 .form-section {
     clear: left;
-    background: url("../images/pexels-yoss-traore-2580426\ \(1\).jpg");
+    background: url("../images/carpet-on-stairs.jpg");
     background-size: cover;
     background-position: center;
     height: 900px;
