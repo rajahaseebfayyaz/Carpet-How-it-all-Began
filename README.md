@@ -11,8 +11,9 @@ Table of Contents
 
 CARPET-HOW-IT-ALL-BEGAN
 
-Screenshot of logo/navigation of mobile deployed site
-Include a link to deployed project with one line explanation of project
+![image](https://user-images.githubusercontent.com/87448281/138307113-fc79a0c7-7f9c-4c87-9c7e-47fb833053b2.png)
+
+Include
 
 Author
 rajahaseebfayyaz
