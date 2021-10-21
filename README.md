@@ -1,6 +1,6 @@
 OVERVIEW
 
-A Guide to CARPET-HOW-IT-ALL-BEGAN
+A Guide to CARPET-HOW-IT-ALL-BEGAN Project
 
 
 Markdown Cheatsheet
@@ -13,7 +13,11 @@ CARPET-HOW-IT-ALL-BEGAN
 
 ![image](https://user-images.githubusercontent.com/87448281/138307113-fc79a0c7-7f9c-4c87-9c7e-47fb833053b2.png)
 
-Include
+https://rajahaseebfayyaz.github.io/Carpet-How-it-all-Began/
+
+https://scarlet-smelt-awdz02o7.ws-eu17.gitpod.io/
+
+To provide New Generation on How Idea of Carpets came into being and revolutionized over the years.
 
 Author
 rajahaseebfayyaz
@@ -25,7 +29,8 @@ The Carpet how it all began provides the users with history of the carpets,How t
 This site also provides user to see how carpets and rugs increase the decor of the interior and how it evolved and used over time.
 In the last user can also sign up to get exclusive tricks and tips to clean the carpets,rugs or both.
 
-Include a link to your deployed website
+https://rajahaseebfayyaz.github.io/Carpet-How-it-all-Began/
+
 UX
 Project Goals
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
