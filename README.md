@@ -1,28 +1,19 @@
-OVERVIEW
+# OVERVIEW
 
-A Guide to CARPET-HOW-IT-ALL-BEGAN Project
-
-
-Markdown Cheatsheet
-markdown table generator
-Table of Contents 
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-CARPET-HOW-IT-ALL-BEGAN
+**CARPET-HOW-IT-ALL-BEGAN**
 
 ![image](https://user-images.githubusercontent.com/87448281/138307113-fc79a0c7-7f9c-4c87-9c7e-47fb833053b2.png)
 
 https://rajahaseebfayyaz.github.io/Carpet-How-it-all-Began/
 
-https://scarlet-smelt-awdz02o7.ws-eu17.gitpod.io/
+
 
 To provide New Generation on How Idea of Carpets came into being and revolutionized over the years.
 
-Author
+## Author
 rajahaseebfayyaz
 
-Project Overview
+# Project Overview
 
 
 The Carpet how it all began provides the users with history of the carpets,How the use of carpets came into being and used even now after so many years.Moreover it also provides user the key elements on types of carpets and why to use carpets for soft flooring and the benefits of using the carpets and rugs.
@@ -31,78 +22,37 @@ In the last user can also sign up to get exclusive tricks and tips to clean the 
 
 https://rajahaseebfayyaz.github.io/Carpet-How-it-all-Began/
 
-UX
-Project Goals
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+## UX
 
-User Goals
-Write goals form the perspective of each user group of your website. Common types of users are:
 
-new customers
-existing customers
-admins
-logged in user
-unauthenticated user
-future employers
-job recruiters
-followers
-Developer Goals
-List out the goals as a developer you hope to achieve by making this website.
-
-Website Owner Goals
-List out any goals a website owner would have for this website. You may not develop them, but investors would want to know how they could make money.
-
-User Stories
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-
-As a user type, I want to perform an action, so that I can achieve a goal.
-
-Design Choices
+### Design Choices
 Your site is most likely geared to a certain audience, and your design choices should tie into them. Let the assessors know your thought process.
 
 You may want to re-watch the videos about the 5 planes of UX development when writing up this section
 
-Colors
+### Colors
 Discuss your color pallet choices and how it ties into users' emotions or target audience.
 ![image](https://user-images.githubusercontent.com/87448281/138310986-54b60d21-29b6-4ca9-a808-1a194878d408.png)
 
 
-Typography
+### Typography
 discuss font size, font types for headers vs buttons vs general text and how it ties into users' emotions or target audience.
 include screenshots of fonts used and links to the appropriate website ex) https://fonts.google.com/specimen/Raleway
-Images
+### Images
 Explain why you used certain icons and images on your site
 
-Design Elements
-list out the type of elements you want to use on your site, this will help you when choosing a framework and goes hand in hand when doing the wireframes. If you did something out of the ordinary, or think something was particularly clever, add a sentence and a screenshot or reference the file the code or css is in.
-top menu (desktop navigation)
-sidebar menu (mobile navigation)
-footer
-containers/cards
-buttons
-text input
-textarea inputs
-dropdowns
-modals/layers
-check boxes
-switches
-accordions
-pagination
-datepickers
-maps
-images
-tooltips
-icons
-Animations and Transitions
-discuss any special animations or transitions you've included
-special hover state effects
-Wireframes
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in a separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 
-Features
+
+## Features
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
 
-Implemented Features
+### Implemented Features
+
+#### NAVIGATION
+
+- Navigation bar to be used to navigate across different pages and sections as well.
+
+
 For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
 
 It's easiest to break this section down into the header, footer, layer, and each page of your website. Call out any differences for mobile vs desktop presentations, include a screenshot.
