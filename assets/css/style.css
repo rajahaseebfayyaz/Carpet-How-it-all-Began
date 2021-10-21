@@ -72,7 +72,8 @@ h2 {
 }
 
 .body-text h2,
-.body-text h3, .body-text h4{
+.body-text h3,
+.body-text h4 {
     font-size: 48px;
     line-height: 90px;
     color: #d32950;
@@ -244,12 +245,15 @@ hr {
 .column {
     flex: 1;
 }
-.column.one-third{
+
+.column.one-third {
     flex: 3.3;
 }
-.column.two-thirds{
+
+.column.two-thirds {
     flex: 6.6;
 }
+
 .body-text h2.heading {
     line-height: 25px;
     font-size: 24px;
@@ -281,11 +285,13 @@ footer {
     flex-direction: row;
     margin: 0 30px;
 }
-.social-networks.text{
+
+.social-networks.text {
     flex-direction: column;
     text-align: left;
     line-height: 24px;
 }
+
 .social-networks {
     text-align: center;
     display: flex;
@@ -320,6 +326,7 @@ footer {
     line-height: 0;
     column-count: 5;
     column-gap: 0;
+    width: 100%;
 
 }
 
@@ -336,7 +343,7 @@ footer {
     height: 300px;
     padding: 10px;
     overflow: hidden;
-  }
+}
 
 .image-wrap img {
     margin: auto;
@@ -344,7 +351,7 @@ footer {
     width: 100%;
     height: 100%;
     max-width: 300px;
-  }
+}
 
 
 /* Form */
@@ -367,7 +374,7 @@ footer {
     padding: 30px;
 }
 
-.signup-form > h2 {
+.signup-form>h2 {
     color: #fafafa;
     margin-bottom: 20px;
 }
@@ -439,9 +446,11 @@ hr {
     display: none;
 }
 
-.row, .body-text{
+.row,
+.body-text {
     margin: 0 15px;
 }
+
 #circle-container {
     width: 200px;
     height: 200px;
@@ -537,6 +546,7 @@ hr {
         margin: 0 auto;
         flex-flow: wrap-reverse;
     }
+
     .social-networks.text {
         width: calc(100% - 60px);
         margin: 18px auto;
@@ -554,7 +564,9 @@ hr {
         margin-top: 0;
     }
 
-    .column, .column.one-third, .column.two-thirds {
+    .column,
+    .column.one-third,
+    .column.two-thirds {
         flex: 1;
         flex-basis: 100%;
     }
