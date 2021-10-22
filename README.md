@@ -84,7 +84,17 @@ https://fonts.google.com/specimen/Lato?query=LATO
 
 ![image](https://user-images.githubusercontent.com/87448281/138381528-cf5bbb54-bac7-4d48-bf61-dc7001642ee0.png)
 
+#### Sign-up Page
+- the sign up page is valuable , as it provides the cleaning tips to the user.
+- the user will submit its details including first and surname along with their email address. 
+- after sign in , this page provides the exclusive tricks and tips for cleaning both the carpets and rugs.
+
 ![image](https://user-images.githubusercontent.com/87448281/138507853-d5055976-7a8d-40dc-ac29-71d6198f25d0.png)
+
+
+#### Footer
+- the footer provides the user with the authors details and copyright.
+- it it will also provide access to the social media links including twitter, instagram and youtube.
 
 ![image](https://user-images.githubusercontent.com/87448281/138507935-3d5c0e47-0584-4211-b5d8-16519e4f1ca0.png)
 

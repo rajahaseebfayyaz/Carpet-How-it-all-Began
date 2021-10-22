@@ -330,9 +330,9 @@ footer {
 
 }
 
-#photos>img {
+#photos a >img {
     width: 100%;
-    max-width: 100%;
+    
 
 }
 
