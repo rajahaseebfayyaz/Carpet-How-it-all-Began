@@ -139,7 +139,9 @@ If this section grows too long, you may want to split it off into a separate fil
 ![image](https://user-images.githubusercontent.com/87448281/138526432-f7b642c2-0fa7-42a8-9723-fd6cc46f7d32.png)
 
 
-![image](https://user-images.githubusercontent.com/87448281/138528498-9faed159-569d-4e86-9744-7e89269cf35b.png)
+[HTML 404.html Validator testing](https://validator.w3.org/nu/?doc=https%3A%2F%2Frajahaseebfayyaz.github.io%2FCarpet-How-it-all-Began%2F404.html)
+
+![image](https://user-images.githubusercontent.com/87448281/138533175-6110eed6-9609-44f6-8e6d-4b86ddd71c5a.png)
 
 ### Accessibility Testing
 - Index.html results
@@ -157,6 +159,11 @@ If this section grows too long, you may want to split it off into a separate fil
 - Signup.html
 
 ![image](https://user-images.githubusercontent.com/87448281/138528936-0c0adc7a-3a7b-40b0-85ef-c08132ab5e76.png)
+
+- 404.html
+
+![image](https://user-images.githubusercontent.com/87448281/138533004-ad41528e-4f37-4701-a813-d479eb5c40db.png)
+
 
 
 ### Manual Testing
