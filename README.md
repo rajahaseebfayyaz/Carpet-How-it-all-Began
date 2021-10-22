@@ -119,17 +119,24 @@ If this section grows too long, you may want to split it off into a separate fil
 ![image](https://user-images.githubusercontent.com/87448281/138523268-1df2d419-f537-4f88-a36b-b50781b3214c.png)
 
 
-[HTML index.html Validator testinh](https://validator.w3.org/nu/?doc=https%3A%2F%2Frajahaseebfayyaz.github.io%2FCarpet-How-it-all-Began%2F)
+[HTML index.html Validator testing](https://validator.w3.org/nu/?doc=https%3A%2F%2Frajahaseebfayyaz.github.io%2FCarpet-How-it-all-Began%2F)
 
 ![image](https://user-images.githubusercontent.com/87448281/138524592-9f2b23f8-da24-4e2f-b404-d8ef2b2b7c8f.png)
 
 
-[HTML about.html Validator testinh](https://validator.w3.org/nu/?doc=https%3A%2F%2Frajahaseebfayyaz.github.io%2FCarpet-How-it-all-Began%2Fabout.html)
+[HTML about.html Validator testing](https://validator.w3.org/nu/?doc=https%3A%2F%2Frajahaseebfayyaz.github.io%2FCarpet-How-it-all-Began%2Fabout.html)
+
 ![image](https://user-images.githubusercontent.com/87448281/138525485-ac8917c0-c9cc-4aaf-9443-5afd4bdabd60.png)
 
 
-[HTML signup.html Validator testinh](https://validator.w3.org/nu/?doc=https%3A%2F%2Frajahaseebfayyaz.github.io%2FCarpet-How-it-all-Began%2Fsignup.html)
+[HTML signup.html Validator testing](https://validator.w3.org/nu/?doc=https%3A%2F%2Frajahaseebfayyaz.github.io%2FCarpet-How-it-all-Began%2Fsignup.html)
+
 ![image](https://user-images.githubusercontent.com/87448281/138525771-03b0e108-d574-4dab-ac1b-fc11aed5143d.png)
+
+
+[HTML gallery.html Validator testing](https://validator.w3.org/nu/?doc=https%3A%2F%2Frajahaseebfayyaz.github.io%2FCarpet-How-it-all-Began%2Fgallery.html)
+
+![image](https://user-images.githubusercontent.com/87448281/138526432-f7b642c2-0fa7-42a8-9723-fd6cc46f7d32.png)
 
 
 
