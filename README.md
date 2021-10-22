@@ -128,6 +128,11 @@ If this section grows too long, you may want to split it off into a separate fil
 ![image](https://user-images.githubusercontent.com/87448281/138525485-ac8917c0-c9cc-4aaf-9443-5afd4bdabd60.png)
 
 
+[HTML signup.html Validator testinh](https://validator.w3.org/nu/?doc=https%3A%2F%2Frajahaseebfayyaz.github.io%2FCarpet-How-it-all-Began%2Fsignup.html)
+![image](https://user-images.githubusercontent.com/87448281/138525771-03b0e108-d574-4dab-ac1b-fc11aed5143d.png)
+
+
+
 ### Validation Testing
 
 
