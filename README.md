@@ -65,7 +65,10 @@ https://fonts.google.com/specimen/Lato?query=LATO
 ![image](https://user-images.githubusercontent.com/87448281/138376114-b3c9a197-7f54-49f8-9d3d-283c869ed788.png)
 
 ##### Home Page
-
+- the image on the home page allows the user to see how the carpets and rugs were vend in ancient time.
+- this page have an eye catching animation for the user of carpet how-it-began to grab their attention.
+- this home page also explains the origin of carpets.
+![image](https://user-images.githubusercontent.com/87448281/138378715-4815ff43-8019-4459-95e1-7d20bb6a35b3.png)
 
 
 ### Programing Languages
