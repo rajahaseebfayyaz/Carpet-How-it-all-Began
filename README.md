@@ -58,18 +58,15 @@ https://fonts.google.com/specimen/Lato?query=LATO
 
 ### NAVIGATION
 
-<<<<<<< HEAD
 - at the top left corner ,the navigation shows the website name carpet-how-it-all-began 
 - the other navigation links are to the right corner: Home, About, Gallery and Sign up which link to different sections of the same page.
 - the navigation explains the user the history of the carpets and how-it-began and different sections of information easy to find.
-=======
-
 
 ![image](https://user-images.githubusercontent.com/87448281/138376114-b3c9a197-7f54-49f8-9d3d-283c869ed788.png)
 
->>>>>>> b5c2cefa0f18f466ed0f2cc608b94a92a45b97a2
 
-Don't forget your 404 error page.
+![image](https://user-images.githubusercontent.com/87448281/138378238-f6df8ca5-89b7-4058-a23f-c8c4379fba43.png)
+
 
 ### Programing Languages
 - HTML
