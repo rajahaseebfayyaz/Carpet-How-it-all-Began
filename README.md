@@ -66,7 +66,7 @@ https://fonts.google.com/specimen/Lato?query=LATO
 
 ##### Home Page
 
-- 
+
 
 ### Programing Languages
 - HTML
