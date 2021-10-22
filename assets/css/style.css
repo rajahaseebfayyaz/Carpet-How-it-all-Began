@@ -72,6 +72,10 @@ h2 {
     color: #c1b2b2;
 }
 
+.main-content a {
+    color: #c1b2b2;
+}
+
 .body-text {
     max-width: 1200px;
     margin: 0 auto;
@@ -276,6 +280,14 @@ hr {
     height: 600px;
     width: 100%;
     background: url('../images/carpet-texture.jpg') no-repeat center center;
+    background-size: 100%;
+}
+
+/* image from https://www.reddit.com/r/fixit/comments/8luj8u/my_cats_fucked_up_the_carpet_how_should_i_go/*/
+#carpet.page-404 {
+    height: 600px;
+    width: 100%;
+    background: url('../images/image.png') no-repeat center center;
     background-size: 100%;
 }
 
