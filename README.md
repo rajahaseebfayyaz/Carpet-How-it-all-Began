@@ -58,7 +58,9 @@ https://fonts.google.com/specimen/Lato?query=LATO
 
 ### NAVIGATION
 
-- 
+- at the top left corner ,the navigation shows the website name carpet-how-it-all-began 
+- the other navigation links are to the right corner: Home, About, Gallery and Sign up which link to different sections of the same page.
+- the navigation explains the user the history of the carpets and how-it-began and different sections of information easy to find.
 
 Don't forget your 404 error page.
 
