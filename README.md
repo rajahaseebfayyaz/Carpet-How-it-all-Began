@@ -160,9 +160,53 @@ If this section grows too long, you may want to split it off into a separate fil
 
 
 ### Manual Testing
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant.
 
-You can track your test in various ways choose the one you are comfortable with and have time to do:
+### Homepage
+
+- [x] All navigation points go where they should
+- [x] All footer links open new tabs because they are not on the website
+- [x] No console errors
+- [x] Looks nice on tablets 
+- [x] Looks nice on desktops
+- [x] Looks nice on phones
+
+### About page
+- [x] All navigation points go where they should
+- [x] All footer links open new tabs because they are not on the website
+- [x] No console errors
+- [x] Looks nice on tablets 
+- [x] Looks nice on desktops
+- [x] Looks nice on phones
+
+### Gallery
+- [x] All navigation points go where they should
+- [x] All footer links open new tabs because they are not on the website
+- [x] No console errors
+- [x] The gallery panel is fully responsive
+- [x] The gallery image clicks nicely and scrolls down to the images in the section below
+- [x] Looks nice on tablets 
+- [x] Looks nice on desktops
+- [x] Looks nice on phones
+
+### Signup form
+- [x] All navigation points go where they should
+- [x] All footer links open new tabs because they are not on the website
+- [x] No console errors
+- [x] Looks nice on tablets 
+- [x] Looks nice on desktops
+- [x] Won't submit the form if requirements are not met
+- [x] After successful submission of the form it leads to CI's formdump website
+
+### 404
+- [x] All navigation points go where they should
+- [x] All footer links open new tabs because they are not on the website
+- [x] No console errors
+- [x] Looks nice on tablets 
+- [x] Looks nice on desktops
+- [x] Looks nice on phones
+
+
+
 ### Defects of Note
 Some defects are more pesky than others. Highlight 3-5 of the bugs that drove you the most nuts and how you finally ended up resolving them.
 
