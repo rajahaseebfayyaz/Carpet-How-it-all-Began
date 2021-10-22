@@ -71,6 +71,10 @@ https://fonts.google.com/specimen/Lato?query=LATO
 ![image](https://user-images.githubusercontent.com/87448281/138378715-4815ff43-8019-4459-95e1-7d20bb6a35b3.png)
 
 #### About Page
+- this page allows the user to see the benefits of using the carpets.
+- this page also explains the different types of carpets, so it could be easy for user to decide which type of carpet they should consider.
+![image](https://user-images.githubusercontent.com/87448281/138380404-005d3782-1512-4f8b-8dd5-27a14c53e7bc.png)
+![image](https://user-images.githubusercontent.com/87448281/138380479-72bb1271-b41d-4f02-b878-651c7d897ea6.png)
 
 
 
