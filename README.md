@@ -118,7 +118,14 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ![image](https://user-images.githubusercontent.com/87448281/138523268-1df2d419-f537-4f88-a36b-b50781b3214c.png)
 
+
+[HTML index.html Validator testinh](https://validator.w3.org/nu/?doc=https%3A%2F%2Frajahaseebfayyaz.github.io%2FCarpet-How-it-all-Began%2F)
+
+![image](https://user-images.githubusercontent.com/87448281/138524592-9f2b23f8-da24-4e2f-b404-d8ef2b2b7c8f.png)
+
 ### Validation Testing
+
+
 You should try to ensure you code is valid and follows proper indentation. In this section you should write up any websites you used to validate your code. As your projects becomes more complex these tools may change.
 
 CSS Validator Note, any error associated with root: color variables were ignored.
