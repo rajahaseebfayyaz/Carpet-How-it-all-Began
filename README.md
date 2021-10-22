@@ -65,7 +65,8 @@ https://fonts.google.com/specimen/Lato?query=LATO
 ![image](https://user-images.githubusercontent.com/87448281/138376114-b3c9a197-7f54-49f8-9d3d-283c869ed788.png)
 
 
-![image](https://user-images.githubusercontent.com/87448281/138378238-f6df8ca5-89b7-4058-a23f-c8c4379fba43.png)
+![image](https://user-images.githubusercontent.com/87448281/138378715-4815ff43-8019-4459-95e1-7d20bb6a35b3.png)
+
 
 
 ### Programing Languages
