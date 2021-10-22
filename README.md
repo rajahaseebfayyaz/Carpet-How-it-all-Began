@@ -139,23 +139,25 @@ If this section grows too long, you may want to split it off into a separate fil
 ![image](https://user-images.githubusercontent.com/87448281/138526432-f7b642c2-0fa7-42a8-9723-fd6cc46f7d32.png)
 
 
+![image](https://user-images.githubusercontent.com/87448281/138528498-9faed159-569d-4e86-9744-7e89269cf35b.png)
 
-### Validation Testing
+### Accessibility Testing
+- Index.html results
 
+![image](https://user-images.githubusercontent.com/87448281/138528567-7335bd56-78d9-4c40-8062-8f672adfac55.png)
 
-You should try to ensure you code is valid and follows proper indentation. In this section you should write up any websites you used to validate your code. As your projects becomes more complex these tools may change.
+- About.html results
 
-CSS Validator Note, any error associated with root: color variables were ignored.
-HTML Validator
-Note any errors or warnings you are ignorning and why. IT IS BEST NOT to have ERRORS, but COLOR VARIABLES sometimes are ok to ignore if you say the IDE that has the correct linters noted no errors. Or you can take the rendered HTML and run it through the HTML validator for the Flask html templates.
+![image](https://user-images.githubusercontent.com/87448281/138528753-9293d3a7-ab3e-4bf5-b5ea-575c30e93db4.png)
 
-Ideally you would bullet point your each of your HTML files and each ofyour CSS files and add a screenshot of the validation tool's output proving all was good.
+- Gallery.html results
 
+![image](https://user-images.githubusercontent.com/87448281/138528847-5bf13ced-296e-4455-ad30-691e51ee9776.png)
 
-### Automated Testing
-Whenever it is feasible, automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+- Signup.html
 
-If you did not run automating testing. State why you chose not to. (Lacking the skill set or time is totally valid, just let the assessor know)
+![image](https://user-images.githubusercontent.com/87448281/138528936-0c0adc7a-3a7b-40b0-85ef-c08132ab5e76.png)
+
 
 ### Manual Testing
 For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant.
