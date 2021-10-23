@@ -16,9 +16,8 @@ rajahaseebfayyaz
 # Project Overview
 
 
-The Carpet how it all began provides the users with history of the carpets,How the use of carpets came into being and used even now after so many years.Moreover it also provides user the key elements on types of carpets and why to use carpets for soft flooring and the benefits of using the carpets and rugs.
-This site also provides user to see how carpets and rugs increase the decor of the interior and how it evolved and used over time.
-In the last, user can also sign up to get exclusive tricks and tips to clean the carpets,rugs or both.
+The CARPET-HOW-IT-ALL-BEGAN provides the users with history of the carpets, how the use of carpets came into being and used even now after so many years. Moreover it also provides user the key elements on types of carpets and why to use carpets for soft flooring and the benefits of using the carpets and rugs, this site also provides user to see how carpets and rugs increase the decor of the interior and how it evolved and used over time.
+In the last page, user can also sign up to get exclusive tricks and tips to clean the carpets, rugs or both. The website has intuitive navigation and color schemes tied in to most people views the oriental carpets.
 
 https://rajahaseebfayyaz.github.io/Carpet-How-it-all-Began/
 
