@@ -301,3 +301,4 @@ https://rajahaseebfayyaz.github.io/Carpet-How-it-all-Began/
 ### Acknowledgments
 - Mentor malia havlicek has provided with helpful learning material in order to complete this project. 
 - CodeInstitute's LOVE-RUNNING project has been used as a starting point,Moreover videos from loverunning project were extremely helpful in creating the project as a whole.
+- There's only bit of code which might be similar to CodeInstitute's LOVERUNNING Project in HTML/CSS which was extremely helpful in making CARPET-HOW-IT-ALL-BEGAN work the way it needs to be.
