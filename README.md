@@ -45,13 +45,13 @@ https://rajahaseebfayyaz.github.io/Carpet-How-it-all-Began/
 https://fonts.google.com/specimen/Oswald?query=os&preview.text=CARPET-HOW-ITALL-BEGAN&preview.text_type=custom
 
 https://fonts.google.com/specimen/Lato?query=LATO
+
 ### Images
 - Icons in the signup page and about page demonstrates the common visual language which effectively bridges language gaps.
 - images are used as evidence, for illustration, for comparison and contrast, and for analytical purposes. 
 - the image on the home page represents how the carpets were sold in merkets during the ancient time  and even the same trend is following in different countries nowadays.
 - The image on the about page demonstrates that carpet is making a comeback in a big and very stylish-way. 
 - Collection of images in gallery explains the trend of carpeting from ancient to modern period.
-
 
 
 ## Features
@@ -98,19 +98,28 @@ https://fonts.google.com/specimen/Lato?query=LATO
 
 ![image](https://user-images.githubusercontent.com/87448281/138507935-3d5c0e47-0584-4211-b5d8-16519e4f1ca0.png)
 
+#### 404 Page
+
+- The 404 page provides the user to navigate straight back to the actual pages so that way they don't feel they are lost and not on my website anymore.
+
+![image](https://user-images.githubusercontent.com/87448281/138536645-78e05b7f-bcec-4ff4-96d9-535389cb5984.png)
+
+## Future Features
+
+- Implement favicons so the browser tab would reflect CARPET-ALL-BEGAN-WEBSITE.
+- Go to Signup page submit to send me an email and user to thank you page.
 
 ### Programing Languages
 - HTML
 - CSS
+
 ### Fonts
 FontAwesome - for icons associated with styling inputs
 Google Font's Oswald font was used for headers and menus
 Google's Lato font was used as the main font
 colors.co I used a colors.co's color pallet tool to help pick complementary colors.
-## Testing
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+## Testing
 
 ### Validation Testing
 [CSS Validator Testing](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frajahaseebfayyaz.github.io%2FCarpet-How-it-all-Began%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
@@ -215,7 +224,9 @@ If this section grows too long, you may want to split it off into a separate fil
 
 
 ### BUGS
+
 I have faced several issues while making my first project but Mentioned below are the Most important bugs that I have managed to fix:-
+
 **Sign up page navigation issue**
 
 - The signup link wasn't underlined but about was so in order to fix this I moved the active class over to the sign up link.
@@ -225,7 +236,7 @@ I have faced several issues while making my first project but Mentioned below ar
 
 **Index.html failed validation**
 
--The markdown validator indicated that page contains mismatched section tag,In order to fix this I have deleted the extra opening section tags.
+- The markdown validator indicated that page contains mismatched section tag,In order to fix this I have deleted the extra opening section tags.
 
 **Gallery images space issue**
 
@@ -243,7 +254,7 @@ I have faced several issues while making my first project but Mentioned below ar
 
 **Content on various devices**
 
-The content looked really vague when tested on different devices So, I order to fix them I added class to my sections which is body-text which limits the max width to 1200px.I also adjusted child paragraphs to have better spacing and line heights.
+- The content looked really vague when tested on different devices So, I order to fix them I added class to my sections which is body-text which limits the max width to 1200px.I also adjusted child paragraphs to have better spacing and line heights.
 
 ![image](https://user-images.githubusercontent.com/87448281/138536017-b5007356-dabb-4265-8a0c-7a33184e977c.png)
 
@@ -251,26 +262,27 @@ The content looked really vague when tested on different devices So, I order to 
  
 
 ### Outstanding Defects
-It's ok to not resolve all the defects you found. If you know of something that isn't quite right, list it out and explain why you chose not to resolve it.
+
+- No outstanding defects.
 
 ## Deployment
 - The site was deployed to github pages. The steps to deploy are as follows:-
 
-- In the Github repository, navigate to settings page.
+1. In the Github repository, navigate to settings page.
 
 ![image](https://user-images.githubusercontent.com/87448281/138536353-66bba5f9-85e9-417b-82ff-818e9963fd19.png)
 
 
-On the settings page,scroll all the way down to the github pages section and click the link.
+2. On the settings page,scroll all the way down to the github pages section and click the link.
 
 ![image](https://user-images.githubusercontent.com/87448281/138536390-b9406097-6b65-4e7d-92fc-ba4dbc498374.png)
 
-- From the source section drops-down menu, select the Master Branch.
+3. From the source section drops-down menu, select the Master Branch.
 
 ![image](https://user-images.githubusercontent.com/87448281/138536442-300ff2aa-8b0c-4277-a62b-649c272baa4d.png)
 
 
-- Once the master branch has been selected click save ,than the page provides the link to the completed website in a green box.
+4. Once the master branch has been selected click save ,than the page provides the link to the completed website in a green box.
 
 - The live link can be found here:-
 https://rajahaseebfayyaz.github.io/Carpet-How-it-all-Began/
