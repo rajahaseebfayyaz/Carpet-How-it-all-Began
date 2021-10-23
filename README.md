@@ -214,17 +214,63 @@ If this section grows too long, you may want to split it off into a separate fil
 
 
 
-### Defects of Note
-Some defects are more pesky than others. Highlight 3-5 of the bugs that drove you the most nuts and how you finally ended up resolving them.
+### BUGS
+I have faced several issues while making my first project but Mentioned below are the Most important bugs that I have managed to fix:-
+**Sign up page navigation issue**
+
+- The signup link wasn't underlined but about was so in order to fix this I moved the active class over to the sign up link.
+
+![image](https://user-images.githubusercontent.com/87448281/138536262-fdbcf258-bb89-448e-a406-45d601dd169d.png)
+
+
+**Index.html failed validation**
+
+-The markdown validator indicated that page contains mismatched section tag,In order to fix this I have deleted the extra opening section tags.
+
+**Gallery images space issue**
+
+- The gallery images had a lot of extra space in between which was not looking proficient,So in order to fix this I have added `<a>` tag to the images to scroll down to section below but my css query wasn't working anymore I had to update `#photos > img` to include the `<a>` tag.It became `#photos a > img` so the 100% width should apply.
+
+![image](https://user-images.githubusercontent.com/87448281/138536100-7cf697f6-d05d-486e-a872-36ab993735e9.png)
+
+
+**Sign up page background issue**
+
+- The background image in the sign up page was covering the header as well making it really hard for user to see and that wasn't user friendly,So I noticed it was missing h1 logo in html and I just put it in and it was fixed.
+
+![image](https://user-images.githubusercontent.com/87448281/138536157-5fdc4ce0-ca8a-459c-944b-ca40aead58be.png)
+
+
+**Content on various devices**
+
+The content looked really vague when tested on different devices So, I order to fix them I added class to my sections which is body-text which limits the max width to 1200px.I also adjusted child paragraphs to have better spacing and line heights.
+
+![image](https://user-images.githubusercontent.com/87448281/138536017-b5007356-dabb-4265-8a0c-7a33184e977c.png)
+
+
+ 
 
 ### Outstanding Defects
 It's ok to not resolve all the defects you found. If you know of something that isn't quite right, list it out and explain why you chose not to resolve it.
 
 ## Deployment
 - The site was deployed to github pages. The steps to deploy are as follows:-
+
 - In the Github repository, navigate to settings page.
+
+![image](https://user-images.githubusercontent.com/87448281/138536353-66bba5f9-85e9-417b-82ff-818e9963fd19.png)
+
+
+On the settings page,scroll all the way down to the github pages section and click the link.
+
+![image](https://user-images.githubusercontent.com/87448281/138536390-b9406097-6b65-4e7d-92fc-ba4dbc498374.png)
+
 - From the source section drops-down menu, select the Master Branch.
-- Once the master branch has been selected ,the page provided the link to the completed website.
+
+![image](https://user-images.githubusercontent.com/87448281/138536442-300ff2aa-8b0c-4277-a62b-649c272baa4d.png)
+
+
+- Once the master branch has been selected click save ,than the page provides the link to the completed website in a green box.
 
 - The live link can be found here:-
 https://rajahaseebfayyaz.github.io/Carpet-How-it-all-Began/
